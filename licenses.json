@@ -1,0 +1,7 @@
+{
+  "_comment": "active = erlaubte Tester-UUIDs | revoked = gesperrte UUIDs",
+  "active": [],
+  "revoked": [],
+  "message_revoked": "Your account has been deactivated. Please contact the administrator.",
+  "last_updated": "2025-01-01T00:00:00.000Z"
+}
