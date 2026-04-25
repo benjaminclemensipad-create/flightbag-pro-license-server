@@ -2,8 +2,6 @@
   "_comment": "active = freigegebene Tester-UUIDs | revoked = gesperrte UUIDs | Einträge hier nach UUID-Sperrung verschieben",
   "last_updated": "2026-04-25T08:08:11.863Z",
   "message_revoked": "Your tester access has been revoked. Please contact the developer.",
-  "active": [
-    "d19420cf-5205-4f84-995d-868a27669ce4"
-  ],
+  "active": [],
   "revoked": []
 }
