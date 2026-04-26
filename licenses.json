@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-04-26T09:20:33.882Z",
+  "last_updated": "2026-04-26T19:10:36.136Z",
   "message_revoked": "Your tester access has been revoked. Please contact the developer.",
   "active": [
     "c2b0b909-128d-4ea0-850b-a669ec2d4831",
     "df9b127d-6a14-4257-bde2-3a0de8581853",
-    "47865060-fab5-43ac-8dfc-59f81e161a54"
+    "47865060-fab5-43ac-8dfc-59f81e161a54",
+    "07a56cbb-8c48-4c45-b219-74c08aee4ef3"
   ],
   "revoked": []
 }
